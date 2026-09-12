@@ -1,2 +1,8 @@
-# lynxlogix-house
-LynxLogix house landing — black piano key luxury system for LynxLogix.NET, Mangasm, Coexist, Ganesh.Guru. Paywall, contact, founder brief.
+# LynxLogix House
+
+Black-piano-key luxury landing system for LynxLogix.NET, Mangasm.app, Coexist, and Ganesh.Guru.
+
+Preview code: HOUSE-KEY
+Replace Stripe placeholder URLs in pay.html before taking live money.
+
+Hard rules: no withdrawal keys, no seed phrases, human gate on live orders, trading P&L is not ARR.
